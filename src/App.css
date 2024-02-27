@@ -22,3 +22,8 @@ body,
   background-color: rgb(136 19 55 / 1);
   border-radius: 0.75rem;
 }
+
+.task > ::-webkit-scrollbar-thumb {
+  background-color: rgb(14 165 233 / 1);
+  border-radius: 0.75rem;
+}
